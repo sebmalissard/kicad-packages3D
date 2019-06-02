@@ -53,3 +53,17 @@ In addition to the 3D model data provided in this library, there are other sourc
     * [traceparts](http://www.traceparts.com/)
 
 Ensure that the LICENSE of any 3D data used is compatible with the intended use-case of the project.
+
+----------------------------------------------------------------------------------------------------
+
+This is a fork of the official KiCad 3D Models.
+
+Installation
+```
+git clone https://github.com/sebmalissard/kicad-packages3D ${HOME}/ws/kicad/kicad-packages3D
+```
+
+Update KICAD8_3DMODEL_DIR in KiCad pcbnew, go to "Preferences" > "Configures Paths..." (example with HOME=/home/seb).
+```
+KICAD8_3DMODEL_DIR = /home/seb/ws/kicad/kicad-packages3D
+```
