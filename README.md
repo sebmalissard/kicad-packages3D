@@ -76,3 +76,6 @@ Update KISYS3DMOD in KiCad pcbnew, go to "Preferences" > "Configures Paths..." (
 ```
 KISYS3DMOD = /home/seb/Workspace/KiCad/kicad-packages3D
 ```
+
+Added libraries:
+* promicro
