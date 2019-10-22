@@ -67,3 +67,6 @@ Update KICAD8_3DMODEL_DIR in KiCad pcbnew, go to "Preferences" > "Configures Pat
 ```
 KICAD8_3DMODEL_DIR = /home/seb/ws/kicad/kicad-packages3D
 ```
+
+Added libraries:
+* promicro
