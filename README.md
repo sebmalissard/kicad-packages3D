@@ -70,3 +70,4 @@ KICAD8_3DMODEL_DIR = /home/seb/ws/kicad/kicad-packages3D
 
 Added libraries:
 * promicro
+* Teensy: https://github.com/XenGi/teensy.pretty
