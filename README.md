@@ -78,5 +78,6 @@ KISYS3DMOD = /home/seb/Workspace/KiCad/kicad-packages3D
 ```
 
 Added libraries:
+* Pololu
 * promicro
 * Teensy: https://github.com/XenGi/teensy.pretty
