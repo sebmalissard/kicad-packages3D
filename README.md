@@ -69,6 +69,7 @@ KICAD8_3DMODEL_DIR = /home/seb/ws/kicad/kicad-packages3D
 ```
 
 Added libraries:
+* ESP8266: https://github.com/jdunmire/kicad-ESP8266.git (1f3d2c6e49285d4ab4976efc04913bd3974290c1)
 * Pololu
 * promicro
 * Teensy: https://github.com/XenGi/teensy.pretty
